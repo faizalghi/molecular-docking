@@ -21,8 +21,8 @@ Write-Host ""
 # 2. PROGRAM
 # =========================================================
 
-$meeko = "C:\Users\faizl\AppData\Roaming\mamba\envs\meeko"
-$vina  = "C:\Users\faizl\OneDrive\Documents\KIMED\vina.exe"
+$meeko = "Direktori\Kamu\envs\meeko"
+$vina  = "Direktori\Kamu\vina.exe"
 
 
 # =========================================================

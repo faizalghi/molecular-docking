@@ -9,15 +9,15 @@ import numpy as np
 # ============================================================
 
 MAIN_DIR_1 = Path(
-    r"C:\Users\faizl\OneDrive\Documents\KIMED\KTIUNDIP\Senyawa_uji_batch1_meeko\results\out"
+    r"Direktori\Kamu\results\out"
 )
 
 MAIN_DIR_2 = Path(
-    r"C:\Users\faizl\OneDrive\Documents\KIMED\KTIUNDIP\Senyawa_uji_batch2_meeko\results\out"
+    r"Direktori\Kedua\Kamu\results\out"
 )
 
 MAIN_DIR_3 = Path(
-    r"C:\Users\faizl\OneDrive\Documents\KIMED\KTIUNDIP\Senyawa_uji_batch3_meeko\results\out"
+    r"Direktori\Ketiga\Kamu\results\out"
 )
 
 
@@ -25,7 +25,7 @@ MAIN_DIR_3 = Path(
 # 2. OUTPUT
 # ============================================================
 
-OUTPUT_FILE = MAIN_DIR_1 / "RMSD_3_running.csv"
+OUTPUT_FILE = MAIN_DIR_1 / "RMSD_running.csv"
 
 
 # ============================================================
